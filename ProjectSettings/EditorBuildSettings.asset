@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/M7R1/Scenes/NetworkSceneManager_Multiplayer.unity
+    path: Assets/M7UF5R1/Scenes/NetworkSceneManager_Multiplayer.unity
     guid: 51bae0a5a4b634e45ad2e9c2e55340b7
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3e49c7d7528bef9479659b426b821526,

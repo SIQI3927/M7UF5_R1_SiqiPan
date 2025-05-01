@@ -2304,6 +2304,16 @@ PrefabInstance:
       propertyPath: GlobalObjectIdHash
       value: 830439470
       objectReference: {fileID: 0}
+    - target: {fileID: 5921072602906785165, guid: 37598139580513248a7128ed04aa1164,
+        type: 3}
+      propertyPath: m_Name
+      value: ENVIRONMENT
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921072602906785165, guid: 37598139580513248a7128ed04aa1164,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5942114193184511605, guid: 37598139580513248a7128ed04aa1164,
         type: 3}
       propertyPath: GlobalObjectIdHash
@@ -2581,6 +2591,9 @@ PrefabInstance:
     - {fileID: 9127608990023874078, guid: 37598139580513248a7128ed04aa1164, type: 3}
     - {fileID: 281634128113553740, guid: 37598139580513248a7128ed04aa1164, type: 3}
     - {fileID: 5740817008840533857, guid: 37598139580513248a7128ed04aa1164, type: 3}
+    - {fileID: 1906864172825817265, guid: 37598139580513248a7128ed04aa1164, type: 3}
+    - {fileID: 7529080646916490659, guid: 37598139580513248a7128ed04aa1164, type: 3}
+    - {fileID: 5775667584909136536, guid: 37598139580513248a7128ed04aa1164, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 37598139580513248a7128ed04aa1164, type: 3}
@@ -2589,9 +2602,9 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 5443985330149515864}
-  - {fileID: 2050470126}
   - {fileID: 297968189}
   - {fileID: 1827568128}
+  - {fileID: 2050470126}
   - {fileID: 693645417}
   - {fileID: 793887535}
   - {fileID: 438311937}
